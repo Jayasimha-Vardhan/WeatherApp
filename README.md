@@ -26,5 +26,5 @@ It fetches real-time weather data using the OpenWeatherMap API.
 
 ## Note
 This is a desktop GUI application and runs locally.
-> Note: Replace `YOUR_API_KEY_HERE` with your own OpenWeatherMap API key.
+Replace `YOUR_API_KEY_HERE` with your own OpenWeatherMap API key.
 
